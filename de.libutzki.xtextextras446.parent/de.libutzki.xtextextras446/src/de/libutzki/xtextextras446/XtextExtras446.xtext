@@ -1,0 +1,7 @@
+grammar de.libutzki.xtextextras446.XtextExtras446 with org.eclipse.xtext.xbase.Xbase
+
+generate xtextExtras446 "http://www.libutzki.de/xtextextras446/XtextExtras446"
+
+Model:
+	name=ID "-->" referencedType=JvmParameterizedTypeReference
+;

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<?eclipse version="3.0"?>
+<plugin>
+	<extension point="org.eclipse.emf.ecore.generated_package">
+		<package 
+			uri = "http://www.libutzki.de/xtextextras446/XtextExtras446"
+			class = "de.libutzki.xtextextras446.xtextExtras446.XtextExtras446Package"
+			genModel = "model/generated/XtextExtras446.genmodel" />
+	</extension>
+</plugin>
